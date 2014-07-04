@@ -1,0 +1,6 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "chart": "git@github.com:nnnick/Chart.js.git#1.0.1-beta.2"
+  }
+}

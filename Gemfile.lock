@@ -33,6 +33,7 @@ GEM
       erubis (>= 2.6.6)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bower-rails (0.7.3)
     builder (3.2.2)
     bullet (4.11.3)
       activesupport (>= 3.0.0)
@@ -207,6 +208,7 @@ PLATFORMS
 DEPENDENCIES
   better_errors
   binding_of_caller
+  bower-rails (~> 0.7.3)
   bullet
   coffee-rails (~> 4.0.0)
   compass-rails (~> 1.1.7)

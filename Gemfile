@@ -9,6 +9,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'therubyracer', '~> 0.12.1'
 gem 'compass-rails', '~> 1.1.7'
 gem 'font-awesome-rails', '~> 4.1.0'
+gem 'bower-rails', '~> 0.7.3'
 
 gem 'jquery-rails', '~> 3.1.1'
 gem 'jbuilder', '~> 2.0'
