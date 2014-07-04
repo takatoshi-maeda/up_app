@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '~>4.1.4'
 gem 'mysql2'
 
+gem 'draper'
+
 gem 'haml'
 
 gem 'sass-rails', '~> 4.0.3'
