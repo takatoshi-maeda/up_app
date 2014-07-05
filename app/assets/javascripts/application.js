@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require chart/Chart
+//= require admin_lte
 //= require_tree .

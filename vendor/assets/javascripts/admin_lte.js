@@ -1,0 +1,12 @@
+//= require admin_lte/bootstrap
+//= require admin_lte/raphael-min
+//= require admin_lte/plugins/morris/morris.min
+//= require admin_lte/plugins/sparkline/jquery.sparkline.min
+//= require admin_lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min
+//= require admin_lte/plugins/jvectormap/jquery-jvectormap-world-mill-en
+//= require admin_lte/plugins/fullcalendar/fullcalendar.min
+//= require admin_lte/plugins/jqueryKnob/jquery.knob
+//= require admin_lte/plugins/daterangepicker/daterangepicker
+//= require admin_lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min
+//= require admin_lte/plugins/iCheck/icheck.min
+//= require admin_lte/AdminLTE/app
